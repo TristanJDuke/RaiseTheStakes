@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RaiseTheStakes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RaiseTheStakes_jar</output-path>
+    <root id="archive" name="RaiseTheStakes.jar">
+      <element id="module-output" name="RaiseTheStakes" />
+    </root>
+  </artifact>
+</component>
